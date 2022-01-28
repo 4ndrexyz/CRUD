@@ -5,12 +5,12 @@ CRUD (Create, Read, Update, Delete) sistem aplikasi sederhana yang dibangun meng
 // Nama File : config.php
 
 <?php
-$server = "localhost"; // Karena menggunakan XAMPP jadi Local servernya 'localhost'
-$database = "db_menu"; // nama dari database
-$username = "root";
-$password = ""; // karena databasenya tidak di Password/sandi maka kosongi saja
 
-//membuat variabel baru dengan nama $connect
+$server = "localhost"; // Karena menggunakan XAMPP jadi Local servernya 'localhost'
+$database = "db_menu"; // nama database anda
+$username = "root"; // user default
+$password = ""; // karena databasenya tidak memiliki Password maka kosongi saja
+
 $connect = mysqli_connection($server, $database, $username, $password);
 
 if (!$connect) {
