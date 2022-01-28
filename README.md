@@ -1,5 +1,5 @@
 # CRUD PHP Native
-CRUD (Creat, Read, Update, Delete) sistem aplikasi sederhana yang dibangun menggunakan bahasa php ini bertujuan untuk membantu anda menyelesaikan tugas Pak Rana
+CRUD (Create, Read, Update, Delete) sistem aplikasi sederhana yang dibangun menggunakan bahasa php ini bertujuan untuk membantu anda menyelesaikan tugas Pak Rana
 
 ```php
 <?php
