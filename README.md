@@ -6,7 +6,7 @@ CRUD (Create, Read, Update, Delete) sistem aplikasi sederhana yang dibangun meng
 
 <?php
 
-$server = "localhost"; // Karena menggunakan XAMPP jadi Local servernya 'localhost'
+$server = "localhost"; // memakai 'localhost'
 $database = "db_menu"; // nama database anda
 $username = "root"; // user default
 $password = ""; // karena databasenya tidak memiliki Password maka kosongi saja
