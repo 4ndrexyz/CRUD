@@ -2,9 +2,9 @@
 CRUD (Create, Read, Update, Delete) sistem aplikasi sederhana yang dibangun menggunakan bahasa php ini bertujuan untuk membantu anda menyelesaikan tugas Pak Rana
 
 ```php
-<?php
+// Nama File : config.php
 
-// File config.php
+<?php
 $server = "localhost"; // Karena menggunakan XAMPP jadi Local servernya 'localhost'
 $database = "db_menu"; // nama dari database
 $username = "root";
